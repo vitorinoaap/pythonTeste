@@ -1,0 +1,4 @@
+jose;35
+vitorino;60
+maria;20
+fulana;45
