@@ -1,7 +1,7 @@
 num = int(input('Qual o numero? '))
 
 print()
-print('TABUADA DO {:=^10}'.format(num))
+print('TABUADA DO  {:=^10}'.format(num))
 print(21 * '=')
 
 # lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
