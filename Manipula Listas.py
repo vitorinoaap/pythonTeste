@@ -109,3 +109,9 @@ for p in galera:
         print(f'{p[0]} é menor de idade.')
         totmen += 1
 print(f'Temos {totmai} maiores e {totmen} menores de idade.')
+
+fruits = {"apple", "banana", "cherry"}
+more_fruits = ["orange", "mango", "grapes"]
+fruits.update(more_fruits)
+print(fruits)
+
